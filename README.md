@@ -26,6 +26,7 @@ The course teaches Gemini CLI best practices with practical examples:
 
 ## Structure
 
-- `starter_files/` - Initial starter files
-- `final_files/` - Completed final files
-- `prompts/` - Prompt templates and files
+- `starter_files/`Initial starter files as they would exist at the start of the course, before any changes have been made.
+- `final_files/` - Completed final files as they would exist at the end of the course, after all changes have been made.
+- `prompts/` - Prompt templates and files from each lesson, plus bonus tips and commands.
+
